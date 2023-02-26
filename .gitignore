@@ -135,3 +135,4 @@ NCBI-GRCh38.p14_GCF_000001405.40/sample.pdb
 NCBI-ViralCompleteRefSeq/viral_genes_and_proteins.tsv
 NCBI-ViralCompleteRefSeq/viral.1.1.genomic.fna
 NCBI-ViralCompleteRefSeq/viral.1.genomic.gbff
+NCBI-ViralCompleteRefSeq/taxanomy_semi_colons_list.txt
