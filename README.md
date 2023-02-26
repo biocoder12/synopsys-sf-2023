@@ -1,4 +1,3 @@
-# synopsys-sf-2023
-Synopsys Science Fair 2023 Project
+# Synopsys Science Fair 2023 Project
 
-Test line1
+Open [ViralImmunityThroughCodonOptimization.ipynb](./ViralImmunityThroughCodonOptimization.ipynb) to start exploring this project
