@@ -127,7 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-viral_genes_and_proteins.tsv
 NCBI-GRCh38.p14_GCF_000001405.40/cds_from_genomic.fna
 NCBI-GRCh38.p14_GCF_000001405.40/human_genes_and_proteins.tsv
 NCBI-GRCh38.p14_GCF_000001405.40/protein.faa
